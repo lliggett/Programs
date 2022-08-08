@@ -1,0 +1,10 @@
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\bin\Debug\CalculatorApp3.exe.config
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\bin\Debug\CalculatorApp3.exe
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\bin\Debug\CalculatorApp3.pdb
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.csproj.AssemblyReference.cache
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.Form1.resources
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.Properties.Resources.resources
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.csproj.GenerateResource.cache
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.csproj.CoreCompileInputs.cache
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.exe
+C:\Users\ligge\source\repos\CalculatorApp3\CalculatorApp3\obj\Debug\CalculatorApp3.pdb
