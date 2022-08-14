@@ -1,5 +1,0 @@
-﻿CREATE TABLE [dbo].[ToDo]
-(
-	[Id] INT NOT NULL PRIMARY KEY IDENTITY, 
-    [task] VARCHAR(50) NULL
-)
